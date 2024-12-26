@@ -1,0 +1,30 @@
+* {
+    font-family: "Poppins";
+    scroll-behavior: smooth
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @import url('https://fonts.googleapis.com/css?family=Nunito:400,700&display=swap');  */
+
+
+
+* {
+    font-family: "Poppins";
+    --primary: #db4444;
+  }
+
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.bdr{
+    border: 2px solid red;
+}
+    
